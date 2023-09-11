@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tugas Constraint Layout</string>
+    <string name="balance">5,600.00</string>
+    <string name="pay_money">Pay money</string>
+    <string name="dsc_paymoney">To wallet, bank or mobile number</string>
+    <string name="request_money">Request money</string>
+    <string name="dsc_requestmoney">Request money from Cowry Loans</string>
+    <string name="pay_bill">Pay bill</string>
+    <string name="dsc_paybill">Zero transactions fees when you pay</string>
+    <string name="buy_airtime">Buy airtime</string>
+    <string name="dsc_buyairtime">Top-up or Send airtime across Countries</string>
+</resources>
